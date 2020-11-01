@@ -1,0 +1,12 @@
+body {
+    background-color: lightcoral;
+}
+
+.container {
+    background-color: lightgrey;
+    border: 5px solid black;
+    width: 750px;
+    height: 300px;
+    margin: auto;
+    text-align: center;
+}
